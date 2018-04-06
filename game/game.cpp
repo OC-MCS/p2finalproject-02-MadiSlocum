@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #include <SFML/Graphics.hpp>
-using namespace sf;
+using namespace sf; 
 
 //============================================================
 // YOUR HEADER WITH YOUR NAME GOES HERE. PLEASE DO NOT FORGET THIS

@@ -1,3 +1,9 @@
+//=========================================================
+// This is just the starting point for your final project.
+// You are expected to modify and add classes/files as needed.
+// The code below is the original code for our first graphics
+// project (moving the little green ship). 
+//========================================================
 #include <iostream>
 using namespace std;
 #include <SFML/Graphics.hpp>

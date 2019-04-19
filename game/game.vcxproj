@@ -146,10 +146,44 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="game.cpp" />
+    <Text Include="Readme.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Readme.txt" />
+    <ClCompile Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AlienGroup.cpp" />
+    <ClCompile Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AutoMovingSprite.cpp" />
+    <ClCompile Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\BoundingHull.cpp" />
+    <ClCompile Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\CollidableSprite.cpp" />
+    <ClCompile Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\game.cpp" />
+    <ClCompile Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\PlayerSprite.cpp" />
+    <ClCompile Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\ProjectileShooter.cpp" />
+    <ClCompile Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\ProjectileSprite.cpp" />
+    <ClCompile Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\SpaceInvaderGame.cpp" />
+    <ClCompile Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\SpaceInvadersWorld.cpp" />
+    <ClCompile Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\Stopwatch.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AlienGroup.h" />
+    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AlienSprite.h" />
+    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AutoMovingSprite.h" />
+    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AxisAlignedRect.h" />
+    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\BoundingHull.h" />
+    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\CollidableSprite.h" />
+    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\PlayerSprite.h" />
+    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\ProjectileShooter.h" />
+    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\ProjectileSprite.h" />
+    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\SpaceInvadersGame.h" />
+    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\SpaceInvadersWorld.h" />
+    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\Stopwatch.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\alienText.png" />
+    <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\bombpic.png" />
+    <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\missile.png" />
+    <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\ship.png" />
+    <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\stars.jpg" />
+    <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\startbackground.png" />
+    <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\startbutton.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

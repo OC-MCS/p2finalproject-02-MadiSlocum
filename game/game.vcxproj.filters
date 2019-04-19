@@ -58,9 +58,6 @@
     <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AlienGroup.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AlienSprite.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AxisAlignedRect.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -91,15 +88,9 @@
     <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AutoMovingSprite.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="resource.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\bombpic.png">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\missile.png">
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\ship.png">
@@ -115,6 +106,9 @@
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\alienText.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="missile.png">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>

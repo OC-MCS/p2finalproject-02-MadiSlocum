@@ -162,9 +162,7 @@
     <ClCompile Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\Stopwatch.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="resource.h" />
     <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AlienGroup.h" />
-    <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AlienSprite.h" />
     <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AutoMovingSprite.h" />
     <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\AxisAlignedRect.h" />
     <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\BoundingHull.h" />
@@ -177,9 +175,9 @@
     <ClInclude Include="\\mac\Home\Downloads\SpaceInvaders04.18.19\Stopwatch.h" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="missile.png" />
     <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\alienText.png" />
     <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\bombpic.png" />
-    <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\missile.png" />
     <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\ship.png" />
     <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\stars.jpg" />
     <Image Include="\\mac\Home\Desktop\p2finalproject-02-MadiSlocum-master\game\startbackground.png" />
